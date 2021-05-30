@@ -10,8 +10,8 @@
 Entusiasta da programação, a tecnologia algo está comigo desda infância, eu todo curioso fuçando no computador do meu irmão mais velho mesmo ele não deixando, desde então com essa curiosidade que carrego, exploro aqui no github implementações através de código, aqui está meu laboratório pessoal, espero que se se divirtam fique a vontade para me dar dicas e implementar melhorias.
   
 🔘Nas horas vagas gosto de jogar lol 🎮 <br> 
-🔘Amo a natureza e uma boa conversa 🌳 <br>
-🔘Livros de mistérios e DC > MCU  😆.
+🔘Amo a natureza  🌳 <br>
+🔘 DC > MCU  😆.
 </p>
 
 
