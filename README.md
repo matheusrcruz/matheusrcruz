@@ -7,7 +7,7 @@
 ### Me chamo Matheus Rufino 👨‍💻
 
 <p style="text-align:center; fonte-size:13px;">
-Apaixonado por tech 💻 , mundo geek 🦸  e games 🕹️ …  a tecnologia  apareceu na minha infância 👶 eu lembro do pc tubão do meu irmão mais aonde eu jogava age of empires e  tentando desenhar no paint ✏️, mesmo ele não me autorizando 🚯. E com essa curiosidade ❓ que carrego desda infância. Subo aqui no github alguns experimentos que venho explorando na internet 🗺️  e me aperfeiçoando com tempo. Fiquem a vontade para sugerir melhorias ou implementa-las 🚀.
+Apaixonado por tech 💻 , mundo geek 🦸 games 🕹️ …  a tecnologia  apareceu na minha infância 👶 eu lembro do pc tubão do meu irmão mais aonde eu jogava age of empires e  tentando desenhar no paint ✏️, mesmo ele não me autorizando 🚯. E com essa curiosidade ❓ que carrego desda infância. Subo aqui no github alguns experimentos que venho explorando na internet 🗺️  e me aperfeiçoando com tempo. Fiquem a vontade para sugerir melhorias ou implementa-las 🚀.
   
 🔘Nas horas vagas gosto de jogar lol 🎮 <br> 
 🔘Amo a natureza  🌳 <br>
