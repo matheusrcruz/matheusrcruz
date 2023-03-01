@@ -1,4 +1,4 @@
-## Olá bem vindo ao meu Github 👋
+## Olá bem-vindo ao meu Github 👋
 
 
 <img align="right" width="400" height="400" src="https://i.imgur.com/orFHG7V.png">
@@ -6,11 +6,11 @@
  
 ### Me chamo Matheus Rufino 👨‍💻
 
-<p style="text-align:center; fonte-size:13px;">
-Apaixonado por tech 💻 , mundo geek 🦸 games 🕹️ …  a tecnologia  apareceu na minha infância 👶 eu lembro do pc tubão do meu irmão mais aonde eu jogava age of empires e  tentando desenhar no paint ✏️, mesmo ele não me autorizando 🚯. E com essa curiosidade ❓ que carrego desda infância. Subo aqui no github alguns experimentos que venho explorando na internet 🗺️  e me aperfeiçoando com tempo. Fiquem a vontade para sugerir melhorias ou implementa-las 🚀.
+<p style="text-align:center; fonte-size:13px; font-family: sans-serif;">
+Apaixonado por tech 💻 , mundo geek 🦸 games 🕹️ … a tecnologia esta comigo desde criança 👶, lembro do pc que tinha em casa, onde eu me divertia jogando e tentando criar uns mods de CS, mesmo sem meu irmão saber mais velho saber, que eu usava o computador dele haha. E com essa curiosidade ❓, que carrego desda infância, aqui eu mostro alguns experimentos, que venho explorando na internet 🗺️  e me aperfeiçoando com tempo. Fiquem a vontade para sugerir melhorias ou implementá 🚀.
   
-🔘Nas horas vagas gosto de jogar lol 🎮 <br> 
-🔘Amo a natureza  🌳 <br>
+🔘Nas horas vagas gosto de jogar 🎮 <br> 
+🔘Amo estar conectado com a natureza  🌳 <br>
 🔘 DC > MCU  😆.
 </p>
 
